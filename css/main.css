@@ -38,8 +38,8 @@ a {
   background-color: #2694d8;
 }
 
-ol li:first-child: {
-  color: #719e47
+ol li:first-child {
+  color: #719e47;
 }
 
 li:last-child {
@@ -51,7 +51,7 @@ li:last-child {
 }
 
 .types > li:nth-child(even) {
-  background-color: #586e75
+  background-color: #586e75;
 }
 
 .types > li:nth-child(3n) {
